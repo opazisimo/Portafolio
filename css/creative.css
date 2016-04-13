@@ -1,1 +1,11 @@
-/* Inserta tu codigo CSS aqui */
+* {
+	font-family: "Open Sans", sans-serif; 
+}
+
+.bgPink {
+	background-color: #f05f40;
+}
+
+.bgPinkClaro {
+	background-color: #f2755a;
+}
