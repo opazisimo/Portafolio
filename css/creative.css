@@ -9,3 +9,37 @@
 .bgPinkClaro {
 	background-color: #f2755a;
 }
+/*gallery*/
+.gallery img {
+	display:inline-block;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+/*github*/
+.github {
+	background-color: black;
+	text-align: center;
+}
+.github h4 {
+	color: #CCC7C7;
+	margin-top: 25px;
+	
+	height: 50px;
+}
+.github2 {
+	margin-bottom: 40px;
+	border: none;
+	border-radius: 30px;
+	font-size: 12px;
+}
+.final {
+	text-align: center;
+}
+.final h2 {
+	font-size:18px;
+	margin-top: 50px;
+	}
+.final h5 {
+	color: #F42121;
+}
