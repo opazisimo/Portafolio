@@ -87,12 +87,11 @@
 	background-color: #f05f40;
 	padding: 6px 20px;
 	border-radius: 30px;
-}
-.b-conoce-mas a {
 	color: white;
 	font-weight: bolder;
 	font-size: 10px;
 	text-decoration: none;
+	border: none;
 }
 .center {
 	text-align: center;
