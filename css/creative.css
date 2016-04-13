@@ -9,3 +9,112 @@
 .bgPinkClaro {
 	background-color: #f2755a;
 }
+.hr-rose {
+	border: 1px solid #f05f40;
+	width: 3%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.hr-white {
+	border: 1px solid white;
+	width: 3%;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+/* header */
+
+.bgTrasparent {
+	background-color: transparent;
+	border: 1px solid white;
+}
+.mp p {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.np {
+	text-align: right;
+	margin-top: 10px;
+}
+.np a {
+	color: #e2d3d0;
+	text-decoration: none;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.np a:hover {
+	color: white;
+}
+.h-title {
+	color: white;
+	font-weight: bolder;
+	font-size: 12px;
+}
+.head {
+	background: url(../img/header.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: auto;
+	padding-bottom: 150px;
+}
+.inli {
+	display: inline-block;
+}
+.navi {
+	font-size: 10px;
+	font-weight: bold;
+}
+.c-head {
+	margin-top: 150px;
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+	font-size: 40px;
+	line-height: 1;
+}
+.p-head  {
+	text-align: center;
+	color: #dacdcd;
+	width: 50%;
+	margin: 0 auto;
+	font-size: 12px;
+	margin-bottom: 40px;
+}
+.b-conoce-mas {
+	background-color: #f05f40;
+	padding: 6px 20px;
+	border-radius: 30px;
+}
+.b-conoce-mas a {
+	color: white;
+	font-weight: bolder;
+	font-size: 10px;
+	text-decoration: none;
+}
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+.mp-r p {
+	margin-left: 10px;
+	margin-top: 10px;
+	font-weight: bolder;
+	font-size: 12px;
+	color: #f05f40;
+}
+.np-r {
+	text-align: right;
+	margin-top: 10px;
+}
+.np-r a {
+	color: #e2d3d0;
+	text-decoration: none;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.np-r a:hover {
+	color: white;
+}
