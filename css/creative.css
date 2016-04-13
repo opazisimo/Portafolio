@@ -9,3 +9,18 @@
 .bgPinkClaro {
 	background-color: #f2755a;
 }
+/*Sobre mi (ROSA)*/
+.sobre {
+	text-align: center;
+	color: white;
+}
+/*Servicios (ROSA)*/
+.servicios {
+	text-align: center;
+}
+
+.servicios i {
+	color: #f05f04;
+	font-size: 30px;
+
+}
