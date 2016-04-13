@@ -9,6 +9,132 @@
 .bgPinkClaro {
 	background-color: #f2755a;
 }
+
+.hr-rose {
+	border: 1px solid #f05f40;
+	width: 3%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.hr-white {
+	border: 1px solid white;
+	width: 3%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+/* header */
+
+.bgTrasparent {
+	background-color: transparent;
+	border: 1px solid white;
+}
+.mp p {
+	margin-left: 1%;
+	margin-top: 1%;
+}
+.np {
+	text-align: right;
+	margin-top: 1%;
+}
+.np a {
+	color: #e2d3d0;
+	text-decoration: none;
+	margin-right: 1%;
+	margin-top: 1%;
+}
+.np a:hover {
+	color: white;
+}
+.h-title {
+	color: white;
+	font-weight: bolder;
+}
+.head {
+	background: url(../img/header.jpg);
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: auto;
+	padding-bottom: 10%;
+}
+.inli {
+	display: inline-block;
+}
+.navi {
+	font-weight: bold;
+	margin-right: 1%;
+}
+.c-head {
+	margin-top: 15%;
+	text-align: center;
+	color: white;
+	font-weight: bolder;
+	font-size: 3em;
+	line-height: 1;
+}
+.p-head  {
+	text-align: center;
+	color: #dacdcd;
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 3%;
+}
+.b-conoce-mas {
+	background-color: #f05f40;
+	padding: 6px 20px;
+	border-radius: 30px;
+	color: white;
+	font-weight: bolder;
+	text-decoration: none;
+	border: none;
+}
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+.mp-r p {
+	margin-left: 1%;
+	margin-top: 1%;
+	font-weight: bolder;
+	color: #f05f40;
+}
+.np-r {
+	text-align: right;
+	margin-top: 1%;
+}
+.np-r a {
+	color: #e2d3d0;
+	text-decoration: none;
+	margin-right: 1%;
+	margin-top: 1%;
+}
+.np-r a:hover {
+	color: white;
+}
+
+/*Sobre mi (ROSA)*/
+.sobre {
+	text-align: center;
+	color: white;
+	margin-top: 3%;
+	margin-bottom: 5%;
+}
+/*Servicios (ROSA)*/
+.servicios {
+	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 5%;
+}
+
+.servicios i {
+	color: #f05f40;
+	font-size: 3em;
+
+}
+
 /*gallery*/
 .gallery img {
 	display:inline-block;
